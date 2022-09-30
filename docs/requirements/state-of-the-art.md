@@ -124,9 +124,19 @@ Named Entity (NE) — це назва, яка вказує на певну ун�
 
 ## Посилання
 
-https://github.com/lang-uk/ner-uk/blob/master/doc/README.md 
-
-https://en.wikipedia.org/wiki/Named-entity_recognition  
-
-https://legalitgroup.com/zhittyevij-tsikl-danih
+1. https://github.com/lang-uk/ner-uk/blob/master/doc/README.md
+2. https://en.wikipedia.org/wiki/Named-entity_recognition
+3. https://legalitgroup.com/zhittyevij-tsikl-danih
+4. https://uk.wikipedia.org/wiki/%D0%92%D1%96%D0%B4%D0%BA%D1%80%D0%B8%D1%82%D1%96_%D0%B4%D0%B0%D0%BD%D1%96
+5. https://step.org.ua/konspekt/base/tema1
+6. https://futurenow.com.ua/shho-take-big-data-velyki-dani/
+7. https://www.oracle.com/database/what-is-database/
+8. https://www.techtarget.com/searchdatamanagement/definition/database-management-system
+9. https://www.erwin.com/solutions/data-modeling/data-model.aspx
+10. https://www.techopedia.com/definition/6731/data-bank
+11. https://byjus.com/maths/data-sets/
+12. https://doccano.herokuapp.com
+13. https://www.lighttag.io
+14. https://prodi.gy
+15. https://dandelion.eu
 
